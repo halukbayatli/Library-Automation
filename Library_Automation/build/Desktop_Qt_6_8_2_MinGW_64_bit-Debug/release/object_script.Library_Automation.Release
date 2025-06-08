@@ -1,0 +1,13 @@
+release/book.o
+release/borrow.o
+release/deliver.o
+release/main.o
+release/mainwindow.o
+release/member.o
+release/tum_2330.o
+release/qrc_Icons.o
+release/moc_book.o
+release/moc_borrow.o
+release/moc_deliver.o
+release/moc_mainwindow.o
+release/moc_member.o

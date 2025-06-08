@@ -1,0 +1,13 @@
+debug/book.o
+debug/borrow.o
+debug/deliver.o
+debug/main.o
+debug/mainwindow.o
+debug/member.o
+debug/tum_2330.o
+debug/qrc_Icons.o
+debug/moc_book.o
+debug/moc_borrow.o
+debug/moc_deliver.o
+debug/moc_mainwindow.o
+debug/moc_member.o

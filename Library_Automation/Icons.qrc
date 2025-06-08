@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>build/book.jpg</file>
+        <file>build/odunc_1.jpg</file>
+        <file>build/odunc_2.jpg</file>
+        <file>build/user.jpg</file>
+    </qresource>
+</RCC>
